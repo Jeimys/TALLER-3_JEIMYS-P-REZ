@@ -1,0 +1,36 @@
+        
+Michelangelo's
+221B Baker Street
+634-5789
+Chocolove McDonell
+        
+
+Análisis de ventas: 16/01/2023 - 16/02/2023
+
+Valor total de las ventas:
+$ 25679000
+
+Venta mínima: $ 548000
+Venta máxima: $ 1059000
+Valor promedio de ventas: $ 802468.75
+Desviación estándar: $ 124936.98020777314
+
+Primer Cuartil: $ 733750.0
+Mediana: $ 797500.0
+Tercer Cuartil: $ 872750.0
+Rango Intercuartil: $ 139000.0
+
+<<<<<<< HEAD
+>>> Agrega aquí tus comentarios a partir del análisis de los datos.
+=======
+>>> Durante el mes analizado el restaurante de comida italiana Michelangelo's obtuvo unas ventas totales de 25679000, 
+al analizar estos datos de forma estadistica obtuvimos que el valor máximo de ventas fue de 1059000 y el valor mínimo fue de 548000. 
+Al profundizar más en este analisis nos encontramos con un promedio de 802468.75, lo cual es un valor alto y más cercano al valor máximo 
+que al valor minimo. Esto nos ayuda a conocer el desempeño que ha tenido el restaurante a lo largo del mes y así poder compararlo con los 
+meses siguientes o anteriores o incluso compararlos con los datos de la competencia. También se calculó la mediana de las ventas obteniendo un valor 
+de 797500.0, este valor nos puede ayudar a identificar si el restaurante está teniendo un creciento y si por el contrario el 
+restaurante necesita una nueva estrategia de ventas. Observamos también que la desviación estándar estuvo por debajo del promedio con un valor de 
+124936.98020777314. Por último notamos que el primer cuartil con valor de 733750.0, el tercer cuartil con 872750.0
+y el rango intercuartil con 139000.0, nos indican la distribución de las ventas del restaurante a lo largo del mes.
+>>>>>>> b2cf3d537a9a03417dc2560faef0c653b84188a1
+
